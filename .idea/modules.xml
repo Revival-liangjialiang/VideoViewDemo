@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UniversalVideoView-master.iml" filepath="$PROJECT_DIR$/UniversalVideoView-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universalvideoview/universalvideoview.iml" filepath="$PROJECT_DIR$/universalvideoview/universalvideoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universalvideoviewsample/universalvideoviewsample.iml" filepath="$PROJECT_DIR$/universalvideoviewsample/universalvideoviewsample.iml" />
+    </modules>
+  </component>
+</project>
